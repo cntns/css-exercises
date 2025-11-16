@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.first-click {
+    background-color: black;
+    color: white;
+}
+.second-click{
+    background-color: yellow;
+    color: black;
+}
+
+.first-click , .second-click {
+    font-size: 28px;
+    font-family:  Helvetica, sans-serif,"Times New Roman";
+}

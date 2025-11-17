@@ -17,5 +17,8 @@ The properties you need to add to each element are:
 
 ### Self Check
 - Did you properly chain class selectors for each rule?
+Yes, I chained the class selectors correctly. I used .avatar.proportioned and .avatar.distorted in my CSS.
 - Does the `proportioned` image retain its original square proportions?
+Yes,the proportioned image retain its original proportions beacause I set the width and height 300px,which keeps the aspect ratio intact.
 - Does the `distorted` image end up looking squished and, well, distorted?
+Yes,the distorted image looks squished because I expilicitly set the width to 200px and the height to 400px.
